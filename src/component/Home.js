@@ -3,7 +3,7 @@ import Header from './Header';
 import RestaurantsDisplay from './Restaurants';
 
 #const url = "https://developerfunnel.herokuapp.com/restaurants";
-const url = "http://http://44.199.247.225:8443/restaurant/";
+const url = "http://44.199.247.225:8443/restaurant/";
 
 
 class Home extends Component{
