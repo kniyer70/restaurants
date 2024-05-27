@@ -2,7 +2,6 @@ import React, {Component, Fragment} from 'react';
 import Header from './Header';
 import RestaurantsDisplay from './Restaurants';
 
-#const url = "https://developerfunnel.herokuapp.com/restaurants";
 const url = "http://44.222.182.10:8443/restaurant/";
 
 
